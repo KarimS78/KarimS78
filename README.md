@@ -15,7 +15,7 @@ software: I come from analytical chemistry and water-treatment operations. That
 background taught me how messy real-world processes are — and I now build
 software that turns that mess into clean, reliable tools people actually use.
 
-Since August 2026 I work as a **Junior Application Security Analyst at TD SYNNEX**
+Since August 2026 I work as a **Junior Application Security Analyst**
 (remote), which pulled me toward the other half of the craft: reading code for
 what can go wrong, not only for what it should do.
 
