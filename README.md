@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Karim 👋</h1>
-<p align="center"><b>Application Security Analyst · Full-Stack Developer</b></p>
+<p align="center"><b>Cyber Security Analyst</b></p>
 <p align="center"><i>From the lab floor to production code.</i></p>
 
 <p align="center">
@@ -16,8 +16,8 @@ software: I come from analytical chemistry and water-treatment operations. That
 background taught me how messy real-world processes are — and I now build
 software that turns that mess into clean, reliable tools people actually use.
 
-Since August 2026 I work as a **Junior Application Security Analyst**
-(remote), which pulled me toward the other half of the craft: reading code for
+Since August 2026 I work as a **Cyber Security Analyst** in application
+security (remote), which pulled me toward the other half of the craft: reading code for
 what can go wrong, not only for what it should do.
 
 I care about shipping. I like owning a product end-to-end: data model, backend,
