@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://karimsehil.com">🌐 Portfolio</a> ·
+  <a href="https://karims78.github.io/cv/">📄 CV</a> ·
   <a href="https://lumea-tau.vercel.app">✨ Lumea</a> ·
   <a href="https://www.linkedin.com/in/karim-sehil">💼 LinkedIn</a>
 </p>
@@ -53,10 +54,12 @@ UI, and the small details that make it feel finished.
 | **Avelyo** | A multi-tenant quotes & invoices SaaS for tradespeople and small businesses, with Factur-X e-invoicing. *(source private)* | Next.js · PostgreSQL · Drizzle |
 | **Life OS** | My own planning PWA — plan without pressure. Offline-first, field-by-field sync, Web Push. *(source private)* | Next.js · PWA · Web Push |
 | **[Lumea](https://lumea-tau.vercel.app)** | My web studio: bilingual marketing site, contact flow, and the client work behind it. | Next.js · Tailwind · Vercel |
+| **[CV](https://github.com/KarimS78/cv)** | My CV as a single HTML file: A4 print CSS, PDF built with headless Chrome, private details kept out of the repo. [Read it](https://karims78.github.io/cv/). | HTML · CSS |
 | **[Portfolio](https://github.com/KarimS78/portfolio)** | My personal site, hand-built with vanilla HTML/CSS/JS in two themes — one of them a playable arcade. [karimsehil.com](https://karimsehil.com) | HTML · CSS · JS |
 
 ## 📫 Get in touch
 
 - 🌐 Portfolio: https://karimsehil.com
+- 📄 CV: https://karims78.github.io/cv/
 - ✨ Lumea: https://lumea-tau.vercel.app
 - 💼 LinkedIn: https://www.linkedin.com/in/karim-sehil
