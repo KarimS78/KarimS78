@@ -23,8 +23,9 @@ I care about shipping. I like owning a product end-to-end: data model, backend,
 UI, and the small details that make it feel finished.
 
 - 🔐 Working on **application security** — code review, vulnerability triage, secure development practices.
-- 🔭 Building **SideQuest AI** — a gaming companion that helps you pick what to play next.
-- 💧 Building **Aquarys** — a lab-operations platform for water-treatment facilities.
+- 💧 Building **Aquarys** — a lab-operations platform for water-treatment facilities, live at [aquarys.io](https://aquarys.io).
+- 🔭 Building **SideQuest AI** — it picks the one game to launch tonight from your Steam library, and tells you why.
+- 🗂️ Shipping **Classifile** (a desktop app that sorts documents on its own) and **Avelyo** (a quotes & invoices SaaS).
 - 🎨 Running **Lumea** — I design and ship websites and web apps for independents and small businesses.
 - 🌱 Comfortable across the stack with **Next.js, TypeScript, Supabase/PostgreSQL**.
 
@@ -38,17 +39,21 @@ UI, and the small details that make it feel finished.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-2C2E3B?style=flat&logo=electron&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat&logo=tauri&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 
 ## 🚀 Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[SideQuest AI](https://github.com/KarimS78/sidequest)** | A gaming companion: connect your library, get help deciding what to play, with a desktop overlay. | Next.js · Supabase · Electron |
-| **[Aquarys](https://applabo.vercel.app)** | A lab-operations platform for water-treatment facilities — replaces paper logs with role-based digital workflows. *(source private)* | Next.js · Supabase · PostgreSQL |
+| **[Aquarys](https://aquarys.io)** | A lab-operations platform for water-treatment facilities — sampling rounds, offline field entry, a dashboard per role, replacing paper logs. *(source private)* | Next.js · Supabase · PostgreSQL · PWA |
+| **[SideQuest AI](https://github.com/KarimS78/sidequest)** | Reads your Steam library, your free hour and your mood, then picks the one game to play — with an explainable local scoring engine. [Live demo](https://sidequest-eta-inky.vercel.app). | Next.js · TypeScript · PWA |
+| **Classifile** | A desktop app that sorts a folder of documents on its own: 100% local, OCR on scans, learns from every correction. *(source private)* | Tauri · Rust · React |
+| **Avelyo** | A multi-tenant quotes & invoices SaaS for tradespeople and small businesses, with Factur-X e-invoicing. *(source private)* | Next.js · PostgreSQL · Drizzle |
+| **Life OS** | My own planning PWA — plan without pressure. Offline-first, field-by-field sync, Web Push. *(source private)* | Next.js · PWA · Web Push |
 | **[Lumea](https://lumea-tau.vercel.app)** | My web studio: bilingual marketing site, contact flow, and the client work behind it. | Next.js · Tailwind · Vercel |
-| **[Rolly Movies](https://github.com/KarimS78/rollymovies)** | Marketing site for a videographer — one HTML file, four art directions, zero build step. | HTML · CSS · JS |
-| **[Portfolio](https://github.com/KarimS78/portfolio)** | My personal site, hand-built with vanilla HTML/CSS/JS in two themes. | HTML · CSS · JS |
+| **[Portfolio](https://github.com/KarimS78/portfolio)** | My personal site, hand-built with vanilla HTML/CSS/JS in two themes — one of them a playable arcade. [karimsehil.com](https://karimsehil.com) | HTML · CSS · JS |
 
 ## 📫 Get in touch
 
