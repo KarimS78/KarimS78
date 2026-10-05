@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Karim 👋</h1>
-<p align="center"><b>Cyber Security Analyst</b></p>
+<p align="center"><b>Cyber Security Analyst · Application Security</b></p>
 <p align="center"><i>From the lab floor to production code.</i></p>
 
 <p align="center">
@@ -23,7 +23,7 @@ what can go wrong, not only for what it should do.
 I care about shipping. I like owning a product end-to-end: data model, backend,
 UI, and the small details that make it feel finished.
 
-- 🔐 Working on **application security** — code review, vulnerability triage, secure development practices.
+- 🔐 Working on **application security** — vulnerability management, triage of SAST/SCA findings, remediation follow-up with development teams, secure coding practices.
 - 💧 Building **Aquarys** — a lab-operations platform for water-treatment facilities, live at [aquarys.io](https://aquarys.io).
 - 🔭 Building **SideQuest AI** — it picks the one game to launch tonight from your Steam library, and tells you why.
 - 🗂️ Shipping **Classifile** (a desktop app that sorts documents on its own) and **Avelyo** (a quotes & invoices SaaS).
