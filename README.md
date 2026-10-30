@@ -26,7 +26,8 @@ UI, and the small details that make it feel finished.
 - 🔐 Working on **application security** — vulnerability management, triage of SAST/SCA findings, remediation follow-up with development teams, secure coding practices.
 - 💧 Building **Aquarys** — a lab-operations platform for water-treatment facilities, live at [aquarys.io](https://aquarys.io).
 - 🔭 Building **SideQuest AI** — it picks the one game to launch tonight from your Steam library, and tells you why.
-- 🗂️ Shipping **Classifile** (a desktop app that sorts documents on its own) and **Avelyo** (a quotes & invoices SaaS).
+- 🗂️ Shipping **[Classifile](https://classifile.vercel.app)** (a desktop app that sorts documents on its own) and **[Avelyo](https://getavelyo.vercel.app)** (a quotes & invoices SaaS, wired to a certified e-invoicing platform).
+- 🦺 Built **[Vigie](https://vigie-five.vercel.app)** — field staff check in on a zone, and the control room sees who is where.
 - 🎨 Running **Lumea** — I design and ship websites and web apps for independents and small businesses.
 - 🌱 Comfortable across the stack with **Next.js, TypeScript, Supabase/PostgreSQL**.
 
@@ -50,8 +51,9 @@ UI, and the small details that make it feel finished.
 |---|---|---|
 | **[Aquarys](https://aquarys.io)** | A lab-operations platform for water-treatment facilities — sampling rounds, offline field entry, a dashboard per role, replacing paper logs. *(source private)* | Next.js · Supabase · PostgreSQL · PWA |
 | **[SideQuest AI](https://github.com/KarimS78/sidequest)** | Reads your Steam library, your free hour and your mood, then picks the one game to play — with an explainable local scoring engine. [Live demo](https://sidequest-eta-inky.vercel.app). | Next.js · TypeScript · PWA |
-| **Classifile** | A desktop app that sorts a folder of documents on its own: 100% local, OCR on scans, learns from every correction. *(source private)* | Tauri · Rust · React |
-| **Avelyo** | A multi-tenant quotes & invoices SaaS for tradespeople and small businesses, with Factur-X e-invoicing. *(source private)* | Next.js · PostgreSQL · Drizzle |
+| **[Classifile](https://classifile.vercel.app)** | A desktop app that sorts a folder of documents on its own: 100% local, OCR on scans, learns from every correction. *(source private)* | Tauri · Rust · React |
+| **[Avelyo](https://getavelyo.vercel.app)** | A multi-tenant quotes & invoices SaaS for small businesses: Factur-X e-invoices sent through a certified e-invoicing platform (OAuth 2.0 + PKCE). *(source private)* | Next.js · PostgreSQL · Drizzle |
+| **[Vigie](https://vigie-five.vercel.app)** | A field check-in PWA for wastewater sites: staff check in on a zone, the control room sees who is where. Row-Level Security through a non-bypassing Postgres role, Playwright end-to-end tests. *(source private)* | Next.js · PostgreSQL + RLS · PWA |
 | **Life OS** | My own planning PWA — plan without pressure. Offline-first, field-by-field sync, Web Push. *(source private)* | Next.js · PWA · Web Push |
 | **[Lumea](https://lumea-tau.vercel.app)** | My web studio: bilingual marketing site, contact flow, and the client work behind it. | Next.js · Tailwind · Vercel |
 | **[CV](https://github.com/KarimS78/cv)** | My CV as a single HTML file: A4 print CSS, PDF built with headless Chrome, private details kept out of the repo. [Read it](https://karims78.github.io/cv/). | HTML · CSS |
